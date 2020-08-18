@@ -1,6 +1,6 @@
 # Autoenocder_Image_similarity_lshashing
     Pytorch based Image similarity retrieval framework trained on a convolutional autoencoder and encoded into 
-    hash values using latent similarity hashing for faster inference.
+    hash values using locality sensitive hashing for faster inference.
 
 # Dataset
     Provided with a dataset of ~5k 512x512 images of animals
